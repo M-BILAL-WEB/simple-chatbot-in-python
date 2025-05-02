@@ -18,7 +18,7 @@ A simple desktop chatbot using Python's `tkinter` and Google's Gemini 2.0 Flash 
 
 ### 📷 App Screenshot
 
-![App Screenshot](Sreenshot.png)
+![App Screenshot](Screenshot.png)
 
 
 ---
