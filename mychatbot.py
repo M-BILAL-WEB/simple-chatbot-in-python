@@ -3,7 +3,7 @@ from tkinter import scrolledtext
 import google.generativeai as genai
 
 # Replace this with your real API key from Google AI Studio
-API_KEY = ""
+API_KEY = "AIzaSyBwUzrQvLitkgBUruzvv16Y9qdvo66dWnE"
 genai.configure(api_key=API_KEY)
 
 # Initialize the model
